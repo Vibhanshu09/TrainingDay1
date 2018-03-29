@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrainingDay1</string>
+    <string-array name="spin2">
+        <item>Kolkata</item>
+        <item>Mumbai</item>
+        <item>Azamgerh</item>
+        <item>Bhopal</item>
+        <item>Indore</item>
+        <item>Varanasi</item>
+    </string-array>
+</resources>
